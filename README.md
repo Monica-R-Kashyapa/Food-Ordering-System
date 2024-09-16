@@ -48,6 +48,11 @@ The project contains the following PHP files and components:
   - Manage dishes, orders, and restaurants using the respective admin pages.
 
 ## Results 
-![Screenshot (2588)](https://github.com/user-attachments/assets/e5e86c71-d2cf-4ff2-84de-c1319315a765)
-![Screenshot (2589)](https://github.com/user-attachments/assets/3bb507ee-9c90-438e-9842-0f0c76923596)
-![Screenshot (2590)](https://github.com/user-attachments/assets/1669c3e8-2a0f-4afb-a8f0-ad376bb93f35)
+- Login page
+![Login](https://github.com/user-attachments/assets/e5e86c71-d2cf-4ff2-84de-c1319315a765)
+
+- Admin page
+![Admin page](https://github.com/user-attachments/assets/3bb507ee-9c90-438e-9842-0f0c76923596)
+
+- Customer page
+![Customer page](https://github.com/user-attachments/assets/1669c3e8-2a0f-4afb-a8f0-ad376bb93f35)

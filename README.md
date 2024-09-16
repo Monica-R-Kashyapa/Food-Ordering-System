@@ -1,5 +1,5 @@
 ## Food Ordering System
-- This Food Ordering System is a web application designed for managing food orders, restaurants, and dishes. It includes both a front-end for users and an admin panel for managing various aspects of the system.
+This Food Ordering System is a web application designed for managing food orders, restaurants, and dishes. It includes both a front-end for users and an admin panel for managing various aspects of the system.
 
 ## Features
 - User registration and login
@@ -9,10 +9,10 @@
 - Success page for confirming actions
 
 ## File Structure
-- The project contains the following PHP files and components:
+The project contains the following PHP files and components:
 
--Admin
-  admin/: Contains PHP files for the admin panel to manage dishes, orders, restaurants, and more.
+- Admin
+  - admin/: Contains PHP files for the admin panel to manage dishes, orders, restaurants, and more.
 
 - Database Connection
   db: Includes the database connection scripts for interacting with the MySQL database.

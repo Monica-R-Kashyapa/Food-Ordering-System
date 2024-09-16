@@ -37,6 +37,11 @@ The project contains the following PHP files and components:
 - Styling
   - css/: Contains CSS files for styling the application.
 
+## Technologies Used
+- **PHP**: For backend logic and interaction with the database.
+- **MySQL**: Database management system for storing data such as donors, patients, blood inventory, etc.
+- **HTML/CSS**: For building and styling the user interface of the application.
+  
 ## Usage
 - User End:
   - Visit index.php to view available restaurants and dishes.
